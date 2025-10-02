@@ -8,6 +8,7 @@ This is a *prototype* and educational demo — not production-ready. It shows ho
 - retrieve the most relevant past messages,
 - construct a context prompt from retrieved memories,
 - generate a reply using a local generative model (GPT-2 by default).
+- _______
 
 ## 🔧 Features
 - Persistent memory (can save/load memory DB)
